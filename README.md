@@ -25,7 +25,7 @@ Execute install.sh
 
 III. Install overview
 ---------------------
-
+```
 |-----------------|
 |   galaxy-dist   |--------> MakeToolsBlast.py
 |-----------------|--------> XmlCreate.py	
@@ -69,3 +69,12 @@ III. Install overview
 				|-------------|
 				|   filters   |--------> blast_filters.py
 				|-------------|
+```
+
+
+Historic contributors
+---------------------
+
+ - Emma Prudent - [ABiMS](http://abims.sb-roscoff.fr/) / [IFB](http://www.france-bioinformatique.fr/) - [UPMC](www.upmc.fr)/[CNRS](www.cnrs.fr) - [Station Biologique de Roscoff](http://www.sb-roscoff.fr/) - France
+ - Erwan Corre  - [ABiMS](http://abims.sb-roscoff.fr/) / [IFB](http://www.france-bioinformatique.fr/) - [UPMC](www.upmc.fr)/[CNRS](www.cnrs.fr) - [Station Biologique de Roscoff](http://www.sb-roscoff.fr/) - France
+ - Christophe Caron  - [ABiMS](http://abims.sb-roscoff.fr/) / [IFB](http://www.france-bioinformatique.fr/) - [UPMC](www.upmc.fr)/[CNRS](www.cnrs.fr) - [Station Biologique de Roscoff](http://www.sb-roscoff.fr/) - France
